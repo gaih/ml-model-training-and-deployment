@@ -4,7 +4,7 @@
 
 # Welcome to our Machine Learning Model Training and Deployment Crash Course Repo!
 
-You can find more information about our Introduction to Machine Learning Course by visiting [Course Website.](https://globalaihub.com/introduction-to-machine-learning/)
+You can find more information about our Machine Learning Model Training and Deployment Crash Course by visiting [Course Website.](https://globalaihub.com/event/machine-learning-model-training-and-deployment-crash-course/)
 
 To enroll our courses, you can find the next course that fit your schedule by visiting [Upcoming Courses.](https://globalaihub.com/upcoming-courses/)
 
