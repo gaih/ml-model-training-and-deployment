@@ -16,9 +16,8 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 - Data Preprocessing
 -   Exploratory Data Analysis
 -   Train-Test Split
--   Evaluation of Models
-Hands-on
-- Building Machine Learning Project with Real Life Dataset
+-   Evaluation of Models  
+- Hands-on: Building Machine Learning Project with Real Life Dataset
 
 
 ### Day 1
